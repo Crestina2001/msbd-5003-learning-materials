@@ -1,0 +1,1 @@
+1. Why is Map/Reduce bad? 1. Performance. Bad at performing iterative algorithms like K-means., because MapReduce will involve a lot of disc I/Os. 2. programmability: only using mapping and reducing makes programming complicated
