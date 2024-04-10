@@ -1,1 +1,1 @@
-This is the group project of team 14.
+This is my learning materials for 5003: big data computing.
